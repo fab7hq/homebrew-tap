@@ -1,9 +1,9 @@
 cask "weft" do
   arch arm: "aarch64", intel: "x86_64"
 
-  version "0.6.1"
-  sha256 arm:   "50342a751b7fe80078d9088287e19516dfa3931cd15bcc10a673b8dd65412fca",
-         intel: "e8bf80be61b09dae6d86606fd8dad5b239e8bacecfaca62ddc21d36d074e0182"
+  version "0.6.2"
+  sha256 arm:   "8eaf95ae90740bb2a0a01babc498d27ff91ba7e6fbeed6729c42be6dc99e676f",
+         intel: "07e94b6222d8d49d5ec16d999f778bdf39f501051231dc5ab7ba854aac890633"
 
   url "https://github.com/fab7hq/weft/releases/download/v#{version}/fab7-v#{version}-#{arch}-apple-darwin.tar.gz"
   name "Weft"
