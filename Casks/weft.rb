@@ -1,6 +1,6 @@
 cask "weft" do
-  version "0.7.2"
-  sha256 "39901fa639235654a372309803316c786af416b55b0ce8d6da6e5cdc71c9caef"
+  version "0.7.3"
+  sha256 "bb123803987553a4225db71ab14887152e47973fbf25d555b75826e6da6cb885"
 
   url "https://github.com/fab7hq/weft/releases/download/v#{version}/fab7-v#{version}-aarch64-apple-darwin.tar.gz"
   name "Weft"
